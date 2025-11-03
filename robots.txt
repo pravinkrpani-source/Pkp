@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pravinkrpani-source.github.io/Pkp/sitemap.xml
